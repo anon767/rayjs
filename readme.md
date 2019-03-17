@@ -4,7 +4,7 @@ This Raytracer takes about 230 LoC and features:
 - reflection
 - optimised canvas drawing
 - Sphere ray intersection
-- Triangle Sphere intersection
+- Triangle ray intersection
 - Phong shading
 
 Open index.html and check the results. Rendering takes about 15 seconds and drawing is optimised to 0.2s.
